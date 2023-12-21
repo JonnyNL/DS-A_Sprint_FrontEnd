@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+Users may input an array of integers seperated by ",", clicking submit will send numbers to be created into a binary search tree that will be displayed and temporarily stored using the processing endpoint /process-numbers. Users can then also view their previously created binary search trees by clicking the navigation link to /previous-trees that will show previously made trees that are stored on the /previous-trees backend endpoint. Tree's are only serialized once fetched.
+
+# To run this React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
